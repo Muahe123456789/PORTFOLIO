@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/your-repo/static/css/main.c6a50e04.css",
-    "main.js": "/your-repo/static/js/main.20d417f9.js",
-    "static/media/remixicon.svg?t=1734404658139": "/your-repo/static/media/remixicon.df9902a6df13645438e1.svg",
-    "static/media/remixicon.eot?t=1734404658139": "/your-repo/static/media/remixicon.29066d810a74e994be27.eot",
-    "static/media/remixicon.ttf?t=1734404658139": "/your-repo/static/media/remixicon.868d1a768f4762dbcc3e.ttf",
-    "static/media/remixicon.woff?t=1734404658139": "/your-repo/static/media/remixicon.ce82bb240fef24f93f95.woff",
-    "static/media/remixicon.woff2?t=1734404658139": "/your-repo/static/media/remixicon.bb211d855a1864aa5b67.woff2",
-    "index.html": "/your-repo/index.html",
-    "main.c6a50e04.css.map": "/your-repo/static/css/main.c6a50e04.css.map",
-    "main.20d417f9.js.map": "/your-repo/static/js/main.20d417f9.js.map"
+    "main.css": "//syll.pdf/static/css/main.dcf48a17.css",
+    "main.js": "//syll.pdf/static/js/main.c18a2efc.js",
+    "static/media/remixicon.svg?t=1734404658139": "//syll.pdf/static/media/remixicon.df9902a6df13645438e1.svg",
+    "static/media/remixicon.eot?t=1734404658139": "//syll.pdf/static/media/remixicon.29066d810a74e994be27.eot",
+    "static/media/remixicon.ttf?t=1734404658139": "//syll.pdf/static/media/remixicon.868d1a768f4762dbcc3e.ttf",
+    "static/media/remixicon.woff?t=1734404658139": "//syll.pdf/static/media/remixicon.ce82bb240fef24f93f95.woff",
+    "static/media/remixicon.woff2?t=1734404658139": "//syll.pdf/static/media/remixicon.bb211d855a1864aa5b67.woff2",
+    "index.html": "//syll.pdf/index.html",
+    "main.dcf48a17.css.map": "//syll.pdf/static/css/main.dcf48a17.css.map",
+    "main.c18a2efc.js.map": "//syll.pdf/static/js/main.c18a2efc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6a50e04.css",
-    "static/js/main.20d417f9.js"
+    "static/css/main.dcf48a17.css",
+    "static/js/main.c18a2efc.js"
   ]
 }
